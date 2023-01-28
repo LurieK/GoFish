@@ -48,7 +48,7 @@ function splitDeal(arr){
 
 
 
- (deal(masterArr))
+
 console.log (pool(arr1,masterArr))
 console.log (splitDeal(arr1))
 
